@@ -4,5 +4,10 @@ draft = false
 title = 'Guide to Taiwan'
 +++
 
+<br>
 
-This is a test.
+The ultimate guide for those eager to travel to Taiwan and discover this awesome island from a local perspective.
+
+<br>
+<br>
+<br>
