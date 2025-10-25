@@ -6,7 +6,7 @@ theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://alexchen666.github.io/guide-to-taiwan/"
 defaultContentLanguage = "en"
 
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+pluralizeListTitles = "false" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
 summaryLength = 0
